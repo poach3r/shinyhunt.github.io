@@ -6,7 +6,7 @@ layout: home
 
 # /announcements/
 
- - <a href="/site/2023/04/13/site-redesign">site redesign<a>
+ - [ 2023-09-29 ] <a href="/announcement/NewSite">Site Creation<a>
 
 <br>
 
@@ -14,7 +14,7 @@ layout: home
 
 # /reports/
 
- - <a href="/art-of-ricing">the art of ricing<a>
+ - [ 2023-09-29 ] <a href="/report/Report1">Report 1<a>
 
 <br>
 

@@ -15,7 +15,7 @@ postF=$(echo "_posts/$postDate-$postName.md")
 echo "Creating File"
 
 #create file and add necessary data
-rm $postF | /dev/null
+rm $postF > /dev/null 2>&1
 echo "---" >> $postF
 echo "layout: post" >> $postF
 echo "title: $postName" >> $postF
