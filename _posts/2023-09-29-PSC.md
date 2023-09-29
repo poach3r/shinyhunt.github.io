@@ -1,0 +1,10 @@
+---
+layout: post
+title: PSC
+date: 2023-09-29 15:57:42 -0000
+categories: announcement 
+---
+
+I've made a simple shiny hunting counter for SV, it kinda sucks but this was just to learn more about creating guis with swing.
+
+You can download it at https://github.com/poach3r/PSC/tree/main
