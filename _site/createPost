@@ -1,0 +1,28 @@
+#!/bin/bash
+
+echo "Creating Variables"
+
+#create vars for the posts name and categories via arguments 1 2 and 3
+postName=$1
+category1=$2
+category2=$3
+#create separate vars for current date and time
+postDate=$(date +%Y-%m-%d)
+postTime=$(date +%H:%M:%S)
+#compile data into a final name
+postF=$(echo "_posts/$postDate-$postName.md")
+
+echo "Creating File"
+
+#create file and add necessary data
+rm $postF | /dev/null
+echo "---" >> $postF
+echo "layout: post" >> $postF
+echo "title: $postName" >> $postF
+echo "date: $postDate $postTime -0000" >> $postF
+echo "categories: $category1 $category2" >> $postF
+echo "---" >> $postF
+
+echo "File $postF created"
+
+code $postF
