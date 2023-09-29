@@ -46,6 +46,8 @@ echo "**Method:** $method" >> $postF
 echo "" >> $postF
 echo "**Encounters:** $encounters" >> $postF
 echo "" >> $postF
+echo "**Status:** $status" >> $postF
+echo "" >> $postF
 
 if [[ $pkmn1 != "" ]]
 then

@@ -11,4 +11,6 @@ categories: hunt SV
 
 **Encounters:** 691
 
+**Status:** Active
+
 <img src="https://img.pokemondb.net/sprites/home/shiny/geodude-alolan.png" alt="Sprites from PokeAPI">

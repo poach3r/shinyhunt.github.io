@@ -11,6 +11,8 @@ categories: hunt HGSS
 
 **Encounters:** 30
 
+**Status**: Active
+
 <img src="https://img.pokemondb.net/sprites/home/shiny/chikorita.png" alt="Sprites from PokeAPI">
 <img src="https://img.pokemondb.net/sprites/home/shiny/cyndaquil.png" alt="Sprites from PokeAPI">
 <img src="https://img.pokemondb.net/sprites/home/shiny/totodile.png" alt="Sprites from PokeAPI">
