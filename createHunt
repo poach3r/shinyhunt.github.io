@@ -51,17 +51,17 @@ echo "" >> $postF
 
 if [[ $pkmn1 != "" ]]
 then
-    echo '<img src="https://img.pokemondb.net/sprites/home/shiny/'$pkmn1'.png" alt="Sprites from PokeAPI">' >> $postF
+    echo '<img src="https://img.pokemondb.net/sprites/home/shiny/'$pkmn1'.png" alt="Sprites from PokemonDB">' >> $postF
 fi
 
 if [[ $pkmn2 != "" ]]
 then
-    echo '<img src="https://img.pokemondb.net/sprites/home/shiny/'$pkmn2'.png" alt="Sprites from PokeAPI">' >> $postF
+    echo '<img src="https://img.pokemondb.net/sprites/home/shiny/'$pkmn2'.png" alt="Sprites from PokemonDB">' >> $postF
 fi
 
 if [[ $pkmn3 != "" ]]
 then
-    echo '<img src="https://img.pokemondb.net/sprites/home/shiny/'$pkmn3'.png" alt="Sprites from PokeAPI">' >> $postF
+    echo '<img src="https://img.pokemondb.net/sprites/home/shiny/'$pkmn3'.png" alt="Sprites from PokemonDB">' >> $postF
 fi
 
 echo "File $postF created"
