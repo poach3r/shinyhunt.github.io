@@ -9,10 +9,8 @@ categories: hunt HGSS
 
 **Method:** Soft-Reset
 
-**Encounters:** 30
+**Encounters:** 2494
 
-**Status**: Active
+**Status**: Completed
 
-<img src="https://img.pokemondb.net/sprites/home/shiny/chikorita.png" alt="Sprites from PokeAPI">
-<img src="https://img.pokemondb.net/sprites/home/shiny/cyndaquil.png" alt="Sprites from PokeAPI">
-<img src="https://img.pokemondb.net/sprites/home/shiny/totodile.png" alt="Sprites from PokeAPI">
+<img src="https://cdn.discordapp.com/attachments/663666268997681153/1157490709578928138/cyndaquil.png" alt="Cyndaquil">
