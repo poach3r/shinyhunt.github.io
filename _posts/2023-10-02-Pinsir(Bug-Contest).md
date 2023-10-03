@@ -9,7 +9,7 @@ categories: hunt HGSS
 
 **Method:** Random-Encounter
 
-**Encounters:** 1500
+**Encounters:** 3250
 
 **Status:** Active
 
