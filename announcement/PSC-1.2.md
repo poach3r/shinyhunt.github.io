@@ -15,7 +15,7 @@ categories: announcement
 
 ## Overview:
 
-All themes are stored in `./themes/`. Inside this folder, you will have `theme.txt` and `default.txt`.
+All themes are stored in `./themes/`. Inside this folder, you will have `theme.txt`, `default.txt`, and `tokyo-night.txt`. `theme.txt` is where you declare the active theme, `default.txt` is the default theme, and `tokyo-night.txt` is my personal theme.
 
 ## Creating a Theme:
 
