@@ -10,4 +10,4 @@ categories: announcement
 * Major code rewrites
 * Support for SWSH and Gen 4
 
-https://github.com/poach3r/PSC/releases/tag/1.3
+https://github.com/poach3r/PSC/
