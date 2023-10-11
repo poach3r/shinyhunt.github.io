@@ -27,7 +27,7 @@ fi
 postDate=$(date +%Y-%m-%d)
 postTime=$(date +%H:%M:%S)
 #compile data into a final name
-postF=$(echo "_posts/$postDate-$postName.md")
+postF=$(echo "_hunts/$postDate-$postName.md")
 
 echo "Creating File"
 
@@ -36,8 +36,7 @@ rm $postF > /dev/null 2>&1
 echo "---" >> $postF
 echo "layout: post" >> $postF
 echo "title: $postName" >> $postF
-echo "date: $postDate $postTime -0000" >> $postF
-echo "categories: hunt $game" >> $postF
+echo "date: $postDate $postTime -0500" >> $postF
 echo "---" >> $postF
 echo "" >> $postF
 echo "**Game:** $game" >> $postF

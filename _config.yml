@@ -20,18 +20,15 @@
 
 title: shinyhunt.me
 tagline: A website to catalog my shiny hunts.
-description: A Linux blog for nerds and noobs.
+description: A website to catalog my shiny hunts.
 baseurl: "" # the subpath of your site, e.g. /blog
 author: poacher
 url: "https://shinyhunt.me" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/logo.png
 
 # Build settings
-remote_theme: poach3r/tokyo-night-jekyll
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme 
-  - jekyll-seo-tag
   - jekyll-gzip
 
 # Exclude from processing.
@@ -55,8 +52,17 @@ plugins:
 #   - vendor/ruby/
 
 header_pages:
+  - index.md
   - contact.md
   - about.md
+
+collections:
+  announcements:
+    output: true
+  reports:
+    output: true
+  hunts:
+    output: true
 
 style: dark # dark (default), light or hacker
 listen_for_clients_preferred_style: true # false (default) or true

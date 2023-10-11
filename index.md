@@ -1,26 +1,6 @@
 ---
-
 layout: home
-
+title: /home/
+permalink: /
 ---
 
-# /announcements/
-
- - [ 2023-10-06 ] <a href="/announcement/PSC-1.3">PSC 1.3<a>
- - [ 2023-10-05 ] <a href="/announcement/PSC-1.2">PSC 1.2<a>
- - [ 2023-09-29 ] <a href="/announcement/PSC">PSC (Shiny Counting Program)<a>
- - [ 2023-09-29 ] <a href="/announcement/NewSite">Site Creation<a>
-
-<br>
-
- ---
-
-# /reports/
-
- - [ 2023-09-29 ] <a href="/report/Report1">Report 1<a>
-
-<br>
-
----
-
-# /hunts/

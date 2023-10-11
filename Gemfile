@@ -17,14 +17,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'jekyll-seo-tag'
-  gem "jekyll-feed"
-  gem "jekyll-mentions"
   gem "webrick"
-  gem "jekyll-redirect-from"
-  gem "jekyll-sitemap"
-  gem "jekyll-avatar"
-  gem "jemoji"
   gem "jekyll-gzip"
 end
 
